@@ -453,6 +453,7 @@ footer {
     .promo__image {
         width: 100%;
         height: 500px;
+        order: 2;
     }
 
     .promo__right {
